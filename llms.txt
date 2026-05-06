@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/fe-nos-el-taree2-in-the-middle-of-the-road/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Fe Nos El Taree2 – In the middle of the road](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Commercial Licensing for Fe Nos El Taree2 – In the middle of the road](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fe Nos El Taree2 – In the middle of the road
+
+This log tracks the cryptographic history and versioning for the song **Fe Nos El Taree2 – In the middle of the road** (fe-nos-el-taree2-in-the-middle-of-the-road).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T03:52:33.705815 | `v1` | `ab233d2e7d61497cf198d5cb1fb14661bb750decd181e4113a4a4ae731b44f0d` | `9ef7909f40e447a941dd2131e648210bfa46cd7cdf3117ae81b9a9765e089626` | `2026-05-09_fe-nos-el-taree2-in-the-middle-of-the-road-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
